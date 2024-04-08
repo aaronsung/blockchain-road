@@ -20,3 +20,7 @@ Ethereum and Solidity: The Complete Developer's Guide
 Ethereum Blockchain Developer Bootcamp With Solidity (2024)
 
 [https://www.udemy.com/course/blockchain-developer/](https://www.udemy.com/course/blockchain-developer/)
+
+### Job Opportunities
+
+[https://jobs.solana.com/jobs](Solana job board)
