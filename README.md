@@ -23,4 +23,4 @@ Ethereum Blockchain Developer Bootcamp With Solidity (2024)
 
 ### Job Opportunities
 
-[https://jobs.solana.com/jobs](Solana job board)
+[https://jobs.solana.com/jobs/](Solana job board)
